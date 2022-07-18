@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/EduVICWANTBeginner-Bold.ttf",
+      "sha1": "d6bd09df4e39cd406722642b0c7d96ef1c99aa30"
+    },
+    {
+      "path": "app/assets/fonts/EduVICWANTBeginner-Medium.ttf",
+      "sha1": "16c935817ea9b568adc27c15510fc41733809f3f"
+    },
+    {
+      "path": "app/assets/fonts/EduVICWANTBeginner-Regular.ttf",
+      "sha1": "831310c3be0ddfe16bc71bb76ec478d10ecd735a"
+    },
+    {
+      "path": "app/assets/fonts/EduVICWANTBeginner-SemiBold.ttf",
+      "sha1": "3975c0b5dbdcda525080bfed7dc74cf3a3e90c0c"
+    },
+    {
+      "path": "app/assets/fonts/EduVICWANTBeginner-VariableFont_wght.ttf",
+      "sha1": "48ef9bfc0a187fc827321797772322773c67116d"
+    }
+  ]
+}
